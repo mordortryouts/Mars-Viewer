@@ -1,6 +1,8 @@
 # Mars Collection
 [Mars Collection](https://mars-collection.firebaseapp.com/) is a single-page application which displays pictures taken by [NASA's rovers](https://en.wikipedia.org/wiki/Mars_rover): Curiosity, Opportunity and Spirit. The pictures display depending on the rover and the size chosen. Pictures can also be "liked" and saved to be seen in a different page called "My Pictures". For more information about Mars, there's a page called "Learn More"
 
+API used to get the pictures: [Mars Rover Photo API](https://github.com/chrisccerami/mars-photo-api)
+
 ## Desktop Version
  ![image](https://i.imgur.com/1lLy6mN.png)
  
