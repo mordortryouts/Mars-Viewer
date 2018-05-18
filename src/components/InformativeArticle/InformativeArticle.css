@@ -1,0 +1,8 @@
+.InformativeArticle{
+    width:100%
+}
+@media (min-width: 769px){
+    .InformativeArticle{
+        max-width:80%
+    }
+}
