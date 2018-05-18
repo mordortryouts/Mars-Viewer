@@ -8,7 +8,7 @@
  ![image](https://i.imgur.com/fgtUcEH.png)
 
 # Motivation
-The motivation for this project was to practice building something interesting with React, and to add different features, like live resizing of the pictures already displayed, routing and easy state management with Redux. This is a "copy" of my favorite project: [Mars Collection](https://egyomrey.github.io/Mars-Collection/build/index.html) which I built initialy with jQuery and ES6. 
+The motivation for this project was to practice building something interesting with React, and to add different features, like live resizing of the pictures already displayed, routing and easy state management with Redux. This is a "copy" of my favorite project which I built initialy with jQuery and ES6. 
 
 # Folder Structure 
 <pre>
